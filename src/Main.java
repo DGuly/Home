@@ -6,6 +6,5 @@ public class Main {
         System.out.println("Test");
         System.out.println("Just text");
         System.out.println("BAD BAD COMMIT");
-        System.out.println("Normal changes, dont touch them, thanks");
      }
 }
